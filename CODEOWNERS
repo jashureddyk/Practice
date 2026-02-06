@@ -1,0 +1,5 @@
+# CODEOWNERS file
+# Default code reviewers - automatically requested on every pull request
+
+# John reviews all code changes
+*       @jashureddyk
